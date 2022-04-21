@@ -4,3 +4,4 @@ featurekeys:
     name: feature_1
     rules:
         key_one: "Value 1"
+        key_two: "Value 2"
