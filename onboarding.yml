@@ -1,2 +1,2 @@
-rule1: Rule 1 in yml
-rule2: Rule 2 in yml
+onboardingrule1: Value of Rule 1 from onborading yml
+onboardingrule2: Value of Rule 2 from onboarding yml
